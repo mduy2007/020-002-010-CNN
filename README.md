@@ -60,7 +60,7 @@
 └── model.pkl          # Database embeddings
 ```
 ## **Giải Thích Code:**
-- **Note:** Phần Này Khá Dài, bạn có thể bỏ qua phần này để xem phần hướng dẫn dùng code, bạn có thể quay lại phần [Mục Lục](#mục-lục) hoặc [Cách Dùng Code](#hướng-dẫn-sử-dụng-code) tại đây.
+- **Note:** Phần Này Khá Dài, thầy\bạn có thể bỏ qua phần này để xem phần hướng dẫn dùng code,thầy\bạn có thể quay lại phần [Mục Lục](#mục-lục) hoặc [Cách Dùng Code](#hướng-dẫn-sử-dụng-code) tại đây.
 
 
 ### **Kết nối Thư Viện**
